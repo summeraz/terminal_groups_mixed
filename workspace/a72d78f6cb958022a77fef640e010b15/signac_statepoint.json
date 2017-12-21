@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "amino",
+    "perfluoromethyl"
+  ],
+  "seed": 1,
+  "n": 100,
+  "chainlength": 17
+}

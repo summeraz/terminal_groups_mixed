@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "carboxyl",
+    "ethylene"
+  ],
+  "seed": 5,
+  "n": 100,
+  "chainlength": 17
+}

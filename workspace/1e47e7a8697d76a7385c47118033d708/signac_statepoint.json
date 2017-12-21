@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "isopropyl",
+    "methoxy"
+  ],
+  "seed": 1,
+  "n": 100,
+  "chainlength": 17
+}

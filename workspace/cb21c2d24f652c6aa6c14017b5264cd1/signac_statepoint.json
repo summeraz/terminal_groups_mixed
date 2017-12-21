@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "methyl",
+    "perfluoromethyl"
+  ],
+  "seed": 4,
+  "n": 100,
+  "chainlength": 17
+}

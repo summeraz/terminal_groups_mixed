@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "cyclopropyl",
+    "nitro"
+  ],
+  "seed": 1,
+  "n": 100,
+  "chainlength": 17
+}

@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "cyclopropyl",
+    "perfluoromethyl"
+  ],
+  "seed": 1,
+  "n": 100,
+  "chainlength": 17
+}

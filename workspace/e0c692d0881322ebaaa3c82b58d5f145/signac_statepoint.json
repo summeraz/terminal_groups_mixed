@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "carboxyl",
+    "isopropyl"
+  ],
+  "seed": 4,
+  "n": 100,
+  "chainlength": 17
+}

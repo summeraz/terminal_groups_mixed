@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "cyano",
+    "methyl"
+  ],
+  "seed": 4,
+  "n": 100,
+  "chainlength": 17
+}

@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "isopropyl",
+    "nitrophenyl"
+  ],
+  "seed": 4,
+  "n": 100,
+  "chainlength": 17
+}

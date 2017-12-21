@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "hydroxyl",
+    "nitro"
+  ],
+  "seed": 4,
+  "n": 100,
+  "chainlength": 17
+}

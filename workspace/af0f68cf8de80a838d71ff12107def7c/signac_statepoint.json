@@ -1,0 +1,9 @@
+{
+  "terminal_groups": [
+    "amino",
+    "methyl"
+  ],
+  "seed": 3,
+  "n": 100,
+  "chainlength": 17
+}
