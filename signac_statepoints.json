@@ -1,0 +1,3782 @@
+{
+  "8fc97475de54af6bfeea7b7891a23139": {
+    "terminal_groups": [
+      "carboxyl",
+      "methoxy"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3bcf84e2d2217dff3cf9a52784feb925": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e4594e291914b615e07c6bef039dcccf": {
+    "terminal_groups": [
+      "amino",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "dc1970cceb93d51526a2735ced7efcba": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f998fd4a939b2f56d2f1b8e3d4d02a14": {
+    "terminal_groups": [
+      "amino",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1f81e9a9d418e4f709056204c5a11043": {
+    "terminal_groups": [
+      "methoxy",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "93f3480bb9c9f7e6c2877fc2481ac268": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ddfa64a5ca8ad93f6f6c14cae5eec72d": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7714d7dd9462c4d207cbc7c59f74631e": {
+    "terminal_groups": [
+      "acetyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1c97c1427cab319e4a2722c80dccc863": {
+    "terminal_groups": [
+      "nitro",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9392dfa87741e17b3c5bd37019ca3bac": {
+    "terminal_groups": [
+      "isopropyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8180cc76f0c7484170942630b8c0bd14": {
+    "terminal_groups": [
+      "methoxy",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e4c9c3c50778fe3653b533d56df433b5": {
+    "terminal_groups": [
+      "methyl",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3e93d733e8dfa6ba5a57b7283216883a": {
+    "terminal_groups": [
+      "isopropyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a72d78f6cb958022a77fef640e010b15": {
+    "terminal_groups": [
+      "amino",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "09d586917e774b0b966a47823aac9a91": {
+    "terminal_groups": [
+      "ethylene",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1755d73030b3d5bd1ee60a86db7fc414": {
+    "terminal_groups": [
+      "hydroxyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "200a0aacdc5771ffcbfcf160c2ff0da0": {
+    "terminal_groups": [
+      "hydroxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7bf01b7d9f27640d2f5b7c35c2f2b5cd": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8c16c54b98568921044162a8cae56b44": {
+    "terminal_groups": [
+      "carboxyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d46d993f3509486157fedd0ec28a17e4": {
+    "terminal_groups": [
+      "ethylene",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "705170d8c77d047667d1367040830bb7": {
+    "terminal_groups": [
+      "hydroxyl",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a1d4d9db6b8cce9b56a559a1bb9617cc": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "87309459be0ab1b6f6875e389c07864e": {
+    "terminal_groups": [
+      "hydroxyl",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5932330bd814d1554b50cb0c8ca641c1": {
+    "terminal_groups": [
+      "acetyl",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a1ebbeb87c7813b77ff314c26f98fe3d": {
+    "terminal_groups": [
+      "carboxyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "59ff7e854e708a655ef56d88a808dad3": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6fdb0b30c711369321a31cbbe228741a": {
+    "terminal_groups": [
+      "carboxyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "983bdbd38d97e1e7e8625b0802476a70": {
+    "terminal_groups": [
+      "hydroxyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "077007d5e49ebb5d633bfa138abf8094": {
+    "terminal_groups": [
+      "carboxyl",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cf46783360822c3d432c3160d4207972": {
+    "terminal_groups": [
+      "isopropyl",
+      "methoxy"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "03ec9540c2f9e8050b9f37d47e1f5a73": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7e60cb060707b406ef741edd28c186d6": {
+    "terminal_groups": [
+      "isopropyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ed54120422b4ba980655268bf12074b6": {
+    "terminal_groups": [
+      "carboxyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "56c66c6b66ec571e59a088db6d0e5018": {
+    "terminal_groups": [
+      "acetyl",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0d9d1eab9b597065d4b2293fafdfe733": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6e1d07ebf9f197cf9d16f1f4f0a0fe45": {
+    "terminal_groups": [
+      "methyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3c037a36a62bf45e5e709b8294a76d00": {
+    "terminal_groups": [
+      "carboxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8c173c054a9ca952d2db98059a9a9da1": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3bad11266ec9b539f0bc17508d5aaa7b": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "658814a3ba515755f26e0cdc53704687": {
+    "terminal_groups": [
+      "ethylene",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a9f17831b6779c5235d17388d5ca0652": {
+    "terminal_groups": [
+      "carboxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6ae3eff2003d7474d3adf30c0ac5ec43": {
+    "terminal_groups": [
+      "cyano",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5f3ec98830fdcc10df28a2ebbab7d3ad": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7dc1bce91b98d2b32b36fd2e343dcc9f": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methoxy"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8e298a64befa5ba862714954bad287df": {
+    "terminal_groups": [
+      "methyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "65492324b77de728e89f868ea5c7fffc": {
+    "terminal_groups": [
+      "amino",
+      "carboxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a2872bf86612278669c1862295f00fb4": {
+    "terminal_groups": [
+      "carboxyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "834282045295a3b16a37c934b41a5ccd": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ed4b18776c03e56c0b0af3621f930fc4": {
+    "terminal_groups": [
+      "methoxy",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "887b7760be9275599af77dada42e8b39": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0eed2d45ba59f9b24762b1843629d806": {
+    "terminal_groups": [
+      "isopropyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e9269d48b36c47966188af8fc1291d45": {
+    "terminal_groups": [
+      "nitro",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "629ae02e3c32bb604ad1674bcc86b786": {
+    "terminal_groups": [
+      "carboxyl",
+      "methoxy"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "653dea7c3603fbf09ef436b6badca035": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "13f41c318d86c8e1887f3a487f24044f": {
+    "terminal_groups": [
+      "methoxy",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5212ddfc020c34739363c068074ef238": {
+    "terminal_groups": [
+      "amino",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "96cbc17c1dc5bdc0f85e1ebc144654a1": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "fb72619293a234079d5173f53036fe79": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b0c9f75f1f684a98851627950f8fe756": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4606326cb0574ff19b02a05610a34fcf": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c8985f851028eb40e880d667b49583e9": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c944dde5c3da0d26a8629ecb01f7f9c5": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3f7c6c9b4c040f22517cb01c25edf4b3": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "98d606b72cfa6493d1f54b0cf4b4a637": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "67a52fb2cb6d5d9dda351b7019696605": {
+    "terminal_groups": [
+      "cyano",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "72a7f9cb77874cbc8b1072118295588f": {
+    "terminal_groups": [
+      "cyano",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e0c692d0881322ebaaa3c82b58d5f145": {
+    "terminal_groups": [
+      "carboxyl",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "372d1fc868fcf2a3e1439dba88194f8f": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cf1b43c7aa06e37e20a4bae7d3c57e8c": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methoxy"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cfde29834b20ab451c504db1a3e619ef": {
+    "terminal_groups": [
+      "hydroxyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d258114932bfb420194b862387a3b3c8": {
+    "terminal_groups": [
+      "methyl",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8c28405794b3b096ecaf6c88e4f73cf6": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyclopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6ca3ad3ac4a7761cb972a99272d741de": {
+    "terminal_groups": [
+      "ethylene",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7f3dbb79f75ecdf1dd39a6fa3a1415f9": {
+    "terminal_groups": [
+      "acetyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "401081855c1096fbfb297c8a4d994e96": {
+    "terminal_groups": [
+      "carboxyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1b6379c526b78e0d7a319853f2eaa842": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "235ee3f5d555dbca29f4b6523a179522": {
+    "terminal_groups": [
+      "carboxyl",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "27cc0410dec295092e9fa543755e9dd5": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "df0d2e1afbe99b9f47d48a8c0edc3ff5": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ca92f96f75fe55bdeaf89f9f73d5937d": {
+    "terminal_groups": [
+      "acetyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ff83878e88e7467ed8c0f464bf3a2a4b": {
+    "terminal_groups": [
+      "ethylene",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ef7973a24693dfd91c5b7daf0fb9e4f2": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f6e035c76c2fb48c5ec0e24f7481c794": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "18bc21e2fcf14d6db9734f65c6758051": {
+    "terminal_groups": [
+      "acetyl",
+      "carboxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ec744db097de519dd495efdb09bcf49e": {
+    "terminal_groups": [
+      "cyano",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "69d74f17a3c03a206f0887912ef7d2c2": {
+    "terminal_groups": [
+      "methoxy",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1e47e7a8697d76a7385c47118033d708": {
+    "terminal_groups": [
+      "isopropyl",
+      "methoxy"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6ee4bb3f2393353263f5ef70f0a13af2": {
+    "terminal_groups": [
+      "cyano",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b515a8cb42d5312a29bc7ba3369924ed": {
+    "terminal_groups": [
+      "cyano",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a9a167168ae34dd210bbc1ebb7a4b7b8": {
+    "terminal_groups": [
+      "ethylene",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c2edcfb31d71c9a3f635506d9308dd14": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3f1ade6c8bcb0996105c5516ef2e62cc": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d8eba3501284fc82d3dbfa79be4c8c4a": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eb1f430d7b6f2ae3f924757d7efbd5f2": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyano"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d7f8da4b9b35eb60e67687d469a1f080": {
+    "terminal_groups": [
+      "cyano",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c90f61a8dee37ab0cfb9b68058302c77": {
+    "terminal_groups": [
+      "acetyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3673fd687ee17a8cd826a50e68b7100a": {
+    "terminal_groups": [
+      "acetyl",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a04e2998d729ea90cd1cfc00155f57d6": {
+    "terminal_groups": [
+      "isopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0562bfbd579f8bd332ee8de391a31117": {
+    "terminal_groups": [
+      "acetyl",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "42a08ae83ddd869b3e40ffaf6c58103e": {
+    "terminal_groups": [
+      "acetyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "425202a487f76bfa5d2850a6562a0ef7": {
+    "terminal_groups": [
+      "amino",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6285c62a2eb7626d13ad369282e65d08": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "af0f68cf8de80a838d71ff12107def7c": {
+    "terminal_groups": [
+      "amino",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "fbc82907f2361ad3e923a5f8051d3e71": {
+    "terminal_groups": [
+      "carboxyl",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c53ddde8c9c1981a8fd3067492da5ab6": {
+    "terminal_groups": [
+      "cyano",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "432cc76eb2fcc652e72802560a2ef258": {
+    "terminal_groups": [
+      "carboxyl",
+      "ethylene"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1e913704dc02fb4e513993847abf6420": {
+    "terminal_groups": [
+      "carboxyl",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "19d471e5a5034eb1498b372cf63aaa66": {
+    "terminal_groups": [
+      "carboxyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6f8885c1b2ef913e54fac47550248817": {
+    "terminal_groups": [
+      "carboxyl",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9e462e5e492e25a407a12c4a5d228ec3": {
+    "terminal_groups": [
+      "nitrophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b3aec31a380e967413f06dc6cae83b30": {
+    "terminal_groups": [
+      "amino",
+      "carboxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5e1d81c0ccadf52265537c8ccf2039b6": {
+    "terminal_groups": [
+      "methyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "150e601e7fa6162e94907f70d8669791": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1863183d4219080b0602541c240aae9b": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "88f303b7e48a44af025cb9a3252b0250": {
+    "terminal_groups": [
+      "isopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5bb4103a5ff7c5a794e09802a373e6e1": {
+    "terminal_groups": [
+      "methyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e1b93876b2407a8cb5b102eb1b8a4605": {
+    "terminal_groups": [
+      "amino",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0136245f37492903a54c29f0ef24a824": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9aa4cd7b8dbc7147d1faba1e6821a200": {
+    "terminal_groups": [
+      "cyano",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c9d8e44b6e9b76ea531b5a4cb7f349ac": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e271b9f643eadf4e49f63e489fc49c2f": {
+    "terminal_groups": [
+      "acetyl",
+      "carboxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "46a390ee51340b065a67e58a455bf9e8": {
+    "terminal_groups": [
+      "isopropyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0dd5225b4de0783b953e2ef8291e123f": {
+    "terminal_groups": [
+      "cyano",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9d3a12288e77239bca235c051903b982": {
+    "terminal_groups": [
+      "isopropyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "40241560383f644f2f4166f470ffd37b": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ebf864f28d6f06e472ab3061fc6d3ff2": {
+    "terminal_groups": [
+      "methoxy",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9116a62bd7a70f311a288aaa5c250f31": {
+    "terminal_groups": [
+      "methyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "529899736267eb3ac7c9ac7a87f9f9a5": {
+    "terminal_groups": [
+      "nitro",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d87f5939a25c4306104b56144df05a91": {
+    "terminal_groups": [
+      "nitro",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4c4f0b5982609aeac633ede51604c68e": {
+    "terminal_groups": [
+      "hydroxyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a7e73e03192c94bc0737d84bc003378a": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6258789172457f5e5ae9ff01b37f1f5b": {
+    "terminal_groups": [
+      "ethylene",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e5f6da9c3ba538ceafd699f5287b2fae": {
+    "terminal_groups": [
+      "methoxy",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f66a31b779ef2dd19b0a1e181aca65ec": {
+    "terminal_groups": [
+      "carboxyl",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4dafa16159f51548485bf8614274dd25": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "168a369aebe369eab3e838332e6e6321": {
+    "terminal_groups": [
+      "ethylene",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "27a75ba11eff3add8a1c520bb1c827d5": {
+    "terminal_groups": [
+      "nitrophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b57f5088db5d8e0a378b077680a28127": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8d1d1d365fe4ff9dd8ee3db37caf3e19": {
+    "terminal_groups": [
+      "carboxyl",
+      "ethylene"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2ba400dd6a50f5e108abd82dbac22058": {
+    "terminal_groups": [
+      "carboxyl",
+      "ethylene"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "198d34a6904e0c7986797c175c8aebbf": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d4ae5a1e92fd3f4d167487e4f54df0d6": {
+    "terminal_groups": [
+      "carboxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "abff80aa486c105bd6449a43614369b2": {
+    "terminal_groups": [
+      "isopropyl",
+      "methoxy"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9c2a0237182f4031e0980c33b1bfa70b": {
+    "terminal_groups": [
+      "hydroxyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "448c0bbcd259e1dd9992e4b9d44c6799": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyclopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e2f4cd28de3d194ebbd098d76e6b593d": {
+    "terminal_groups": [
+      "ethylene",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "06b1a3891d2f9b5bdd1a1329c06e2bc3": {
+    "terminal_groups": [
+      "carboxyl",
+      "ethylene"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "81e9d86b3f17f1ec95de240b222fcf80": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b7f011365b59d37073b5bf04d52945e4": {
+    "terminal_groups": [
+      "cyano",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "073fd46dac4b5736025ff46dcf16f303": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "dc1c5a1633d641bb1c31d0f9226f559e": {
+    "terminal_groups": [
+      "hydroxyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "028f0e7837d6d82585d5b1d2f053cddb": {
+    "terminal_groups": [
+      "hydroxyl",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a6cfb2a6414397fbb791828f0a3c2e56": {
+    "terminal_groups": [
+      "ethylene",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "98cd6634c0b5408e39c323aec2ae011c": {
+    "terminal_groups": [
+      "carboxyl",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "be629d7be12daa947d6f7cf7c1250461": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "23738e0acd9edd11039da42a3d3a78fe": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2f5de24e214d16ed2811be86d110a468": {
+    "terminal_groups": [
+      "isopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d906fb2f699dd7171329fbec6cf0f78f": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methoxy"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9f0df6c000f194a6dcde3b81ed097692": {
+    "terminal_groups": [
+      "carboxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9bb6228d6132c4aa33d9bdb1dbbdfc0c": {
+    "terminal_groups": [
+      "nitro",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "10db33f1b3edbf8b99d2d3859ed94f2b": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f85c2b4a8df69f3d8c1d73221669ddae": {
+    "terminal_groups": [
+      "ethylene",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e72589ea2b5062dde7bfd58e65fa7b7c": {
+    "terminal_groups": [
+      "acetyl",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ed254cd4e3e71ac6b8cbb9596d6d6715": {
+    "terminal_groups": [
+      "nitro",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c9992293ee7bd08a1c49e0a37a2fda1d": {
+    "terminal_groups": [
+      "methoxy",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4149546e2d7a416f6732dccfbf5f01bf": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyano"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d244e4ac3403bbba8836461b68b4f40c": {
+    "terminal_groups": [
+      "carboxyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "051922004072c9eb0c67fe520de14a01": {
+    "terminal_groups": [
+      "cyano",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e3546be03b3a701db57ad380206c168a": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b2a3911ce280f78e11379fa294ce4e54": {
+    "terminal_groups": [
+      "ethylene",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a0d96082f56fbb3a6bb2019235e504cd": {
+    "terminal_groups": [
+      "nitro",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9619dfd9490854fb1704dedf47ec06e9": {
+    "terminal_groups": [
+      "cyano",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "97bce028fb3514c3500611f555dade75": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methoxy"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9646cf163c8e4ca098ff1f35d03341ba": {
+    "terminal_groups": [
+      "carboxyl",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cb657c9e61dab94bec4706305454d045": {
+    "terminal_groups": [
+      "carboxyl",
+      "methoxy"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a8d4ebec265562015a81d4ee0c4f6bbc": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyano"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d1bf5d3e86cda249ca09ac3c18967d35": {
+    "terminal_groups": [
+      "isopropyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ece5d918f5e44fbc27bee06db4b72d99": {
+    "terminal_groups": [
+      "nitro",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eae4b8c8f8a1fe6aefc77a794d725f18": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "989cd51ca64d054926d95656f09b9e9e": {
+    "terminal_groups": [
+      "amino",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e3322056cd2b32a0d11db89524f5ce5c": {
+    "terminal_groups": [
+      "amino",
+      "carboxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c5f5887e0f89f658e851b3103044365a": {
+    "terminal_groups": [
+      "methyl",
+      "pyrrole"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "aa47205db1a061953896056d4993dced": {
+    "terminal_groups": [
+      "amino",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e311c8587c19a1c402542cffb7f705b4": {
+    "terminal_groups": [
+      "cyano",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "33a91fed483bcae61f97af811e1a1e93": {
+    "terminal_groups": [
+      "cyano",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "34b564b84baf004e3e9d61cc7964596b": {
+    "terminal_groups": [
+      "carboxyl",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e20c94d6d2b36e00b92062395d135ea7": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyclopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "adb3ed17def5c2ea64ef7f0b3a81cedf": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methoxy"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "40ec882583e21bc95da2952c90a62693": {
+    "terminal_groups": [
+      "cyano",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "abd08c2f243eea007354c517e4e6a36a": {
+    "terminal_groups": [
+      "acetyl",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "76ec3328ec17931e505c2b447c838e5b": {
+    "terminal_groups": [
+      "ethylene",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "fbc85f3a839ade9aac93946cb2a3ff51": {
+    "terminal_groups": [
+      "carboxyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8d91e4495e333cfc03031858508c00f4": {
+    "terminal_groups": [
+      "acetyl",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9b78ada34bfc0d65393f2c0c4e591a91": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ea084e60b697aee3787562d50199267b": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "73f627bee69b8e5f269f433133d9abaf": {
+    "terminal_groups": [
+      "acetyl",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "89c28318a54825b5d0c01e4e35f994ac": {
+    "terminal_groups": [
+      "carboxyl",
+      "methoxy"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "929adf7fa1a6743562c00bee10fb480d": {
+    "terminal_groups": [
+      "methyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e9595e634b498adf2094bb13a092bdb8": {
+    "terminal_groups": [
+      "acetyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ae6173c30a9a4657a94fd8c63ea42217": {
+    "terminal_groups": [
+      "hydroxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "27bb590fd774f8f9db6ad0d387ab522e": {
+    "terminal_groups": [
+      "methyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "77a47db86071228b3ec712811dd24804": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitrophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "92bf64b34b0b653c9b7c73042d8e473b": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7a31ae4bcd468c13de36465a730ff04c": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "026e6864e5a635d1810580c6843dc606": {
+    "terminal_groups": [
+      "carboxyl",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b3ab5b6fd564384ec88bf4ac352d5b90": {
+    "terminal_groups": [
+      "hydroxyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "891e856f3dbdbc62d1a66aaaca8097db": {
+    "terminal_groups": [
+      "ethylene",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eda18340d8d0cf4271164040714e66e0": {
+    "terminal_groups": [
+      "cyano",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2cb218b1df270463a04b7e196e9c0278": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cad1c53519ed35e9dfcdd54bb3480ef0": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methoxy"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "48f61cf10e1a59d9f782e644e7d5b978": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "df9db57ba8f494b33b70c2c6e47786c5": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "19e2f35abe879842ecf820e5e7270702": {
+    "terminal_groups": [
+      "hydroxyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "819a24a4279c49ee06ed3edc5e555978": {
+    "terminal_groups": [
+      "isopropyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "093f248215d0dc2b0ae83b436e2bb879": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1a499d7669704e96191596f8016669c7": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "phenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b266361f9ac1877f0b47acd2cb38d9b3": {
+    "terminal_groups": [
+      "methyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a3795ff11c4f5ed39644bb77f1ffb17b": {
+    "terminal_groups": [
+      "nitro",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ccd21c564f4c07759fdef2f3246d50fd": {
+    "terminal_groups": [
+      "carboxyl",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d36d4a1195d53eeb394ae4e9cec5d21a": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d4538d4a3d125de9cc089b1b14b57ced": {
+    "terminal_groups": [
+      "acetyl",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "366c40044777442b533188f632cd7a56": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5109aa2cf1bc70e3b67104dd22f611c6": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cd1a4b130f4bc323dcd1a5be40c58a5a": {
+    "terminal_groups": [
+      "hydroxyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7ef19c92e19c54442791fb08018b52df": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyclopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9f65a25a70985bc83c54658355b42e14": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "657a68d8dd3c234cd90c1f11af5777e5": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6a9962004320ad28f4e48c0675a32523": {
+    "terminal_groups": [
+      "acetyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ffd9644f12aed6cf530c9a39fdb56f34": {
+    "terminal_groups": [
+      "nitro",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0ed1af480b620779af2c51f1acda975c": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "20826fe2b820c8a33fb4328ed4296238": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0fb61ff0f76f1eda308e14bd8baeede0": {
+    "terminal_groups": [
+      "hydroxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "bcb772accb1bdbff33e677d83819169a": {
+    "terminal_groups": [
+      "methyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "73b0d3cb84ffaf98072835b8a8687156": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "99f4d0582c7e233b20166e47c937079b": {
+    "terminal_groups": [
+      "ethylene",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "773558555e85d792aa67fda0bf9cf8dc": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "72eb713a69486af9f25639d41e35613c": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4500fe9ae8131699cd727e354d5ed712": {
+    "terminal_groups": [
+      "methyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c564a8d30ef3557a4974a51631eb5dc0": {
+    "terminal_groups": [
+      "cyano",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "17f814d9327205ddfe871d7052383ee2": {
+    "terminal_groups": [
+      "amino",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4ecde08ecc0bb1876b47b086d059297e": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4de24d6b46f6c4859e6a7c33944d9746": {
+    "terminal_groups": [
+      "cyano",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8b14559d67fd71479621a8010b35934a": {
+    "terminal_groups": [
+      "ethylene",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8214c7742227f5c732d8aef1fa619797": {
+    "terminal_groups": [
+      "nitro",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "66f1ea3347220d076d625e51103735d7": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2d909daa90c59ccebf0a7ccf63655d81": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c4c49fd7ccfde3cabf0b53b6780bc55a": {
+    "terminal_groups": [
+      "amino",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "92a786586fe6df5f0526bc616effe285": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7e92b7a2a536740275208da6bd065a42": {
+    "terminal_groups": [
+      "methyl",
+      "nitrophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d60c6ea55a81920b0ceb7e078e50e020": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "02b2dcebb8dad5da8d6ecae2382fd7d2": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "96f8763569bdf69f1f3774c20b9662ff": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b76eb20de5dc45c4b60556872066d867": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e6b4afd113069e59dc370bac0945c8c1": {
+    "terminal_groups": [
+      "ethylene",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "dcb693cdddd0a8154e5c9bbb19b9b50c": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyano"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0c210f047d18c857c64f4eace34b80f7": {
+    "terminal_groups": [
+      "ethylene",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5607d856c483f5c31d95d0f00727345a": {
+    "terminal_groups": [
+      "cyano",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7fe8177d46f5e75ff5559889dc49e3c2": {
+    "terminal_groups": [
+      "cyano",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cde334886b704bb318892a412026f37b": {
+    "terminal_groups": [
+      "methoxy",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5a6ec93c9f3d30f6d422141b141eccc6": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f9f6e581f33eb6cf678544735cc749e0": {
+    "terminal_groups": [
+      "isopropyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "11644d94c5aeb08bb91a129e27fafddf": {
+    "terminal_groups": [
+      "carboxyl",
+      "ethylene"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7cafdfc14dfc30bda7b6a669a4566e12": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cd0a6549fec235e0f483dfa4ed8c618f": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyclopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "45054a016eb0b8fd6ff13acb9dc267bb": {
+    "terminal_groups": [
+      "amino",
+      "carboxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9a963a7a11c1111bdddee2cde498c4c4": {
+    "terminal_groups": [
+      "acetyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "30664ca34fa63f02d7a7bf87f6f29cb9": {
+    "terminal_groups": [
+      "hydroxyl",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d446422b5abc5c55adebd90d44ea4310": {
+    "terminal_groups": [
+      "isopropyl",
+      "methoxy"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "45336aee426d1162a6042dc0e9d6dd49": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "bc9b72bd4b23b8146d08423fa1afa88b": {
+    "terminal_groups": [
+      "carboxyl",
+      "cyano"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2c94b5722d4b58b7ce37f3237bc894f7": {
+    "terminal_groups": [
+      "nitro",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "640eeb8a35e9ea6b674dee53f9dd5b63": {
+    "terminal_groups": [
+      "carboxyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9b2a49282299dc4e018a55cde078f445": {
+    "terminal_groups": [
+      "methyl",
+      "pyrrole"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5e2cc447bca4544667a218a97e808efe": {
+    "terminal_groups": [
+      "ethylene",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "caaadfdaff5e5887fb21ff1097eb23f9": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "34e8b7a9871538864f4ba2fa8c26512c": {
+    "terminal_groups": [
+      "acetyl",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "09e5e85f8da82b82417e3aaef64be82e": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ada86647e9bc2138a72df0c0ac3f037b": {
+    "terminal_groups": [
+      "acetyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8c995aeba4df75cb68e90359e49e1161": {
+    "terminal_groups": [
+      "carboxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a3d1ee9509f1cb06f26d82876d8c47d1": {
+    "terminal_groups": [
+      "acetyl",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "624db00ea55178cf6bd63d7a190c64b4": {
+    "terminal_groups": [
+      "methyl",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "94f20602faf6f483bf86f5c4e2a246f4": {
+    "terminal_groups": [
+      "isopropyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1db948bdc19467da4a9bd40f8d6021aa": {
+    "terminal_groups": [
+      "hydroxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6471412927130e85d928084bcd5df927": {
+    "terminal_groups": [
+      "isopropyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "041593adab1d07aba4ac7997179837cf": {
+    "terminal_groups": [
+      "cyano",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "12c8c55b2f21fc10b8ba79fdc807256b": {
+    "terminal_groups": [
+      "amino",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8ffacf7a69d35839f83524e6b10770d0": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c3b4be514f440f86be8ef881325eb072": {
+    "terminal_groups": [
+      "cyano",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "076a05719be58f387e79662f85730280": {
+    "terminal_groups": [
+      "amino",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "64f193d23729fc1b71c1d94c479ed9c4": {
+    "terminal_groups": [
+      "ethylene",
+      "fluorophenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "5bbbeefb6c94c3ac6c7733dbd86d3f85": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1f180e3fbe1d6d3687f4893e88fd8c63": {
+    "terminal_groups": [
+      "acetyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c8732ceebac8f432012089532d413579": {
+    "terminal_groups": [
+      "nitrophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "445254dcc54018a20720ebbc73b1aaf7": {
+    "terminal_groups": [
+      "isopropyl",
+      "pyrrole"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b5387beb9af64d6d71638b894490c0c1": {
+    "terminal_groups": [
+      "isopropyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eed27748f441d78f2510d9332ed4e6d1": {
+    "terminal_groups": [
+      "amino",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c5addca8aa226f04ef17e66033bf46ce": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "07ea414d6328254935f7aa32cc9655cb": {
+    "terminal_groups": [
+      "cyano",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "7aaba6fb7e7c5f2172dbbd9eb74cca57": {
+    "terminal_groups": [
+      "amino",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "40fcb9ad5ba04c9677bad97c4e3c03b3": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ea377b84e4d436531aecf0f17aad2446": {
+    "terminal_groups": [
+      "nitro",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9a3a7880b5ec56e089ee9ceac6c6fdf7": {
+    "terminal_groups": [
+      "acetyl",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "50ae9f0903f54b58e309b41b6fcf6ee5": {
+    "terminal_groups": [
+      "amino",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8428cbeccedfc9825b5fa52f7f039a36": {
+    "terminal_groups": [
+      "nitrophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "1556ae2612098d5fa662324c9ade100e": {
+    "terminal_groups": [
+      "acetyl",
+      "carboxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "42496519e6c7d25c4410b2de78373b14": {
+    "terminal_groups": [
+      "nitro",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a10bbe81b049421dce7ae5a1803c0089": {
+    "terminal_groups": [
+      "ethylene",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9803417b1cf381fa9a991638cbec09e4": {
+    "terminal_groups": [
+      "ethylene",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f309f70b68b00d53d1a9b149ed69daf4": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methoxy"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f500fcf7a0e3fde1678c9c219974f99e": {
+    "terminal_groups": [
+      "acetyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "beaf3ec6ff29cd50728b744d96e8541d": {
+    "terminal_groups": [
+      "acetyl",
+      "fluorophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4c1b51f226c86734643c91463053433a": {
+    "terminal_groups": [
+      "methyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cea3eed4e48cc66e053f731a6e7a9426": {
+    "terminal_groups": [
+      "methyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e6820f4996f6d4da5b5f8d2622c853ca": {
+    "terminal_groups": [
+      "acetyl",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "09e1019b72613208785eb6373b4f022f": {
+    "terminal_groups": [
+      "methoxy",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "063ba3db71b23a144c5827373efec0c6": {
+    "terminal_groups": [
+      "amino",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "34bb758d990cb80e24b79e9452a1b537": {
+    "terminal_groups": [
+      "cyano",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2e04095069df682e820af1fb427165c3": {
+    "terminal_groups": [
+      "carboxyl",
+      "methoxy"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "35bd6683d6d708394ff6d732987a9248": {
+    "terminal_groups": [
+      "amino",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "696e50de65ca2c48cf6cf6eb1c80e55c": {
+    "terminal_groups": [
+      "nitro",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f17cc3ffeaa529a84c80b3ee8ba7b9c2": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b9a177c5a3737c7927860e4020752df2": {
+    "terminal_groups": [
+      "hydroxyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ebab713793ef9bcf3dbdf4f40f6b2228": {
+    "terminal_groups": [
+      "carboxyl",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "515376ad9daadf719d6f8712ec46eac4": {
+    "terminal_groups": [
+      "methyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "25136b9c6de2228f17b666148b6d0136": {
+    "terminal_groups": [
+      "acetyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d6b00dea0078ac6e1f02958394e1cf7d": {
+    "terminal_groups": [
+      "methoxy",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "831ef469340d33d98ecef04ac7101d1e": {
+    "terminal_groups": [
+      "amino",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "71425c088fe63c8d74ee30abd856814e": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "28e1af776ec5672e2873db006ef6b40d": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a1d8f81608f12db94f067bf1b748de50": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4d66c6770aea56cd591f561dd9924e03": {
+    "terminal_groups": [
+      "nitro",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b72ae9bf11a1115529deee69fc644ab1": {
+    "terminal_groups": [
+      "amino",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "30aee5162821ae650680d6531cef2be2": {
+    "terminal_groups": [
+      "carboxyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "78c6c77398d3d20767f20c4643586127": {
+    "terminal_groups": [
+      "cyano",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "083046022e4e5efa135c1b58d57fe76b": {
+    "terminal_groups": [
+      "ethylene",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2e3769af9134b6ad259284540ad8d06f": {
+    "terminal_groups": [
+      "methyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c1a35add8bb7c1a019710dae37954aa3": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitrophenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "43b403f5918a548d3d87893a8e94ae55": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0efa061cf66f3a5c0f75b2e510ef7397": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "bebca1818b86d54b9648b580f35453e9": {
+    "terminal_groups": [
+      "carboxyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "799e3861e58d106858760ed7adaad06f": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c5983b87242246ae3b348c333fa6ea9b": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "dab575a704911448be5b81ecc28193cb": {
+    "terminal_groups": [
+      "ethylene",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "117269acd5332177f8574a227e9a9250": {
+    "terminal_groups": [
+      "cyano",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6ddccf5f9902e61d0c8eceedc8da1a4f": {
+    "terminal_groups": [
+      "nitro",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8aec5e57314713eca0934375a05ea90a": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b09106657c1b7bbf29ca93c35164125d": {
+    "terminal_groups": [
+      "amino",
+      "isopropyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "37802ba9b74ff62ffd6a495031458b92": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "pyrrole"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f4cb9e002b52da51aee2d8e6481dfce1": {
+    "terminal_groups": [
+      "hydroxyl",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4520ea622c44c74781cd822d7434e910": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2a1c78e378f829a2962859059e512a8d": {
+    "terminal_groups": [
+      "nitrophenyl",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d79466debb6d104b6efd74bf16368f36": {
+    "terminal_groups": [
+      "acetyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e1d31d149f216b9303c94581b2c24d6d": {
+    "terminal_groups": [
+      "cyano",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "6e009f7e9cbf3a35b6fef538264848c4": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "hydroxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "0c09a27ba3a9884443462ab32cd46764": {
+    "terminal_groups": [
+      "isopropyl",
+      "methoxy"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f56cc9efd28cba63227c3bcb996b8994": {
+    "terminal_groups": [
+      "hydroxyl",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c416d34970c2e497be235fb8032543a5": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "753f709b5bfef509c3798a49c0726ed9": {
+    "terminal_groups": [
+      "ethylene",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "29fa80342f95edc1ec840943e2efc40a": {
+    "terminal_groups": [
+      "acetyl",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e9ec4586e7a81cfe972988011e701487": {
+    "terminal_groups": [
+      "carboxyl",
+      "hydroxyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d7eaa23b2ffd01c863299d6b73597c7b": {
+    "terminal_groups": [
+      "isopropyl",
+      "nitro"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "02ddc302705b1784333138984b701c76": {
+    "terminal_groups": [
+      "nitro",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "964fe2722b0383769a70c864bbe434bb": {
+    "terminal_groups": [
+      "methyl",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "aa9a6f865910e56afbaa683551516d54": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9b1bc19129e9495c9e27bbd394496ce4": {
+    "terminal_groups": [
+      "ethylene",
+      "nitro"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "361340954626e379a9b996b590bca5e0": {
+    "terminal_groups": [
+      "hydroxyl",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "addf5794c5b5976eff8b4b4c4230fa87": {
+    "terminal_groups": [
+      "isopropyl",
+      "phenyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "280fe1d7b793bf7e0c3d409539b622ac": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "phenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "906c37fa65d7ec749bc287ffa4151bc3": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "isopropyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "aec7ee513fb066827af643b2ff54673a": {
+    "terminal_groups": [
+      "ethylene",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "89241904fe830eaae2f1552403ccf6b9": {
+    "terminal_groups": [
+      "isopropyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "08594c9775a485193e4f790465b83de4": {
+    "terminal_groups": [
+      "methoxy",
+      "nitro"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2e8a44a315fbf8bf3cbe23333379e685": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "hydroxyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "68d1aa5105e8469546eee82e8808d1d0": {
+    "terminal_groups": [
+      "acetyl",
+      "carboxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e0464e158daf2ca2c9c89a656c05972c": {
+    "terminal_groups": [
+      "amino",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a35669fa81dca6c6f64c9dbcc6996dae": {
+    "terminal_groups": [
+      "nitro",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "4e706f600d09f459924937fc5ae942b1": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methoxy"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "a80483fc6a0f6043d395b5dcb9370ebe": {
+    "terminal_groups": [
+      "amino",
+      "perfluoromethyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f197bb012cedafcf7e4edd7b61092cef": {
+    "terminal_groups": [
+      "methyl",
+      "phenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "54f2c0f8987fb437cbc531f09f76d4c1": {
+    "terminal_groups": [
+      "amino",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3e000d4d56886983fe0f9b0917722110": {
+    "terminal_groups": [
+      "ethylene",
+      "isopropyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2685574a91a251d65f175a59843d08ba": {
+    "terminal_groups": [
+      "acetyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "c550d05cd221c13a5c68fb0c9b2f89fb": {
+    "terminal_groups": [
+      "isopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "05b182899ae9d903a05747536556b3d3": {
+    "terminal_groups": [
+      "carboxyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "57d0fabe68f3f33607a8901c60c8e0ce": {
+    "terminal_groups": [
+      "carboxyl",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "aa166695d0613424eb004c98ed65f5c1": {
+    "terminal_groups": [
+      "amino",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e6837b5744e16e6e02b3756b0dc7440f": {
+    "terminal_groups": [
+      "amino",
+      "nitro"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "141db8a2230bbaf9fdcce26bb39ec429": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methoxy"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9942023c798e87807a2474fd171aae28": {
+    "terminal_groups": [
+      "amino",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f5b51f2f223fb2d772d9a712cdecf0ed": {
+    "terminal_groups": [
+      "nitro",
+      "phenyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "912dd712993caa3d9cd07a81f1c1d814": {
+    "terminal_groups": [
+      "ethylene",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e127a3eac5cac7814bf689213f18fea3": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "methyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "2711505c382fbd276c84d3e01ca2d7f9": {
+    "terminal_groups": [
+      "hydroxyl",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3e1f7b652b6ea84dda5d5f59349e9afc": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "41afaafd5448fc7e529c38c6f7120a13": {
+    "terminal_groups": [
+      "isopropyl",
+      "perfluoromethyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "65611262b1d20d06225e0411497f3a00": {
+    "terminal_groups": [
+      "methoxy",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "445fc02c547ae5eec9537c9875f3f3e5": {
+    "terminal_groups": [
+      "carboxyl",
+      "nitrophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "e63a0c7d2c262241a77f50a2588ec155": {
+    "terminal_groups": [
+      "acetyl",
+      "isopropyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "3283719c3baf8def6ea9569937aa8f05": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitro"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8bb2bfdb341dcfe84657741c7a66a2b7": {
+    "terminal_groups": [
+      "cyano",
+      "fluorophenyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "b9694561c4d3e26171120bca3336e0a1": {
+    "terminal_groups": [
+      "ethylene",
+      "hydroxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "dfe7bc2f83d3619fa791c2088d728093": {
+    "terminal_groups": [
+      "acetyl",
+      "carboxyl"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "25092c72e5473e2916216fdb79022a1c": {
+    "terminal_groups": [
+      "amino",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "49897d84c54a35aeab6242a13c0ac18d": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "methoxy"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "00fe02da22b281e233cc5896e8ab9056": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "isopropyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eef0f86072db809d1674bdf9a20a3ec4": {
+    "terminal_groups": [
+      "methyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "9de5630e7a6703e2e391e12897cf9d3e": {
+    "terminal_groups": [
+      "carboxyl",
+      "hydroxyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "eb07affdc41cf08b67d6ae4c00bd9900": {
+    "terminal_groups": [
+      "carboxyl",
+      "methyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f449339dd5e7f950461603580f9af58c": {
+    "terminal_groups": [
+      "amino",
+      "fluorophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "d8f454dfff043d785e93c67dc496e42a": {
+    "terminal_groups": [
+      "amino",
+      "methyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "86b77a683938d89c22e952fb64b65e4e": {
+    "terminal_groups": [
+      "methyl",
+      "perfluoromethyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "cb21c2d24f652c6aa6c14017b5264cd1": {
+    "terminal_groups": [
+      "methyl",
+      "perfluoromethyl"
+    ],
+    "seed": 4,
+    "n": 100,
+    "chainlength": 17
+  },
+  "15bd16fd3b8374eda73774cafccde694": {
+    "terminal_groups": [
+      "perfluoromethyl",
+      "pyrrole"
+    ],
+    "seed": 3,
+    "n": 100,
+    "chainlength": 17
+  },
+  "837333dc34e2b38048f32582ae3074ca": {
+    "terminal_groups": [
+      "fluorophenyl",
+      "nitrophenyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  },
+  "8b90c1bba6525d1f9076a21713ec2b07": {
+    "terminal_groups": [
+      "amino",
+      "carboxyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "f75fc930fbfb2b44fe0b4b183f7c8f98": {
+    "terminal_groups": [
+      "methoxy",
+      "methyl"
+    ],
+    "seed": 1,
+    "n": 100,
+    "chainlength": 17
+  },
+  "48c930152e0321657a1d4c9f117bed54": {
+    "terminal_groups": [
+      "methoxy",
+      "perfluoromethyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "64e213695e85195e581802b00240425f": {
+    "terminal_groups": [
+      "cyclopropyl",
+      "fluorophenyl"
+    ],
+    "seed": 5,
+    "n": 100,
+    "chainlength": 17
+  },
+  "ddfa5e7d72db45e85dc137b130812705": {
+    "terminal_groups": [
+      "cyano",
+      "methyl"
+    ],
+    "seed": 2,
+    "n": 100,
+    "chainlength": 17
+  }
+}
