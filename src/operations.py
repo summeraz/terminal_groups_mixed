@@ -223,7 +223,7 @@ def _calc_tilt(name, n_chains):
         output_filename=out_file, ndx_filename=ndx_file, n_chains=n_chains)
 
 def _calc_interdigitation(name):
-    from atools.structure_mixed import calc_interdigitation
+    from atools.structure import calc_interdigitation
     gro_file = '{}.gro'.format(name)
     out_file= '{}-interdigitation.txt'.format(name)
     ndx_file = 'init.ndx'
